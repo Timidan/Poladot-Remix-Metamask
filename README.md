@@ -1,4 +1,4 @@
-# Poladot-Remix-Metamask
+# Polkadot-Remix-Metamask
 
 ##Account used for deployment of token contract and checkContract = 0xF3a57FAbea6e198403864640061E3abc168cee80
 
